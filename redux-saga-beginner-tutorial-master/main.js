@@ -8,7 +8,6 @@ import Counter from './Counter'
 import reducer from './reducers'
 
 const store = createStore(reducer)
-
 const action = type => store.dispatch({type})
 
 function render() {
@@ -16,7 +15,9 @@ function render() {
     <Counter
       value={store.getState()}
       onIncrement={() => action('INCREMENT')}
-      onDecrement={() => action('DECREMENT')} />,
+      onDecrement={() => action('DECREMENT')}
+      onIncrementIfOdd={() => action('INCREMENT_IF_ODD')}
+    />,
     document.getElementById('root')
   )
 }

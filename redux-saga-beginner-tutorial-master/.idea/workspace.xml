@@ -2,23 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aedb434-9a2d-4749-b9d7-72e9c8b9ec5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/Counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/reducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux_saga_android/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_saga_android/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux_saga_android/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_saga_android/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux_saga_android/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_saga_android/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux_saga_android/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_saga_android/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux_saga_android/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_saga_android/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YIaiiQLr68S1Kw1p2c01UsQZ6R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React-Native-Redux-Saga-Sample-App-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582632690559</updated>
       <workItem from="1582632693610" duration="363000" />
-      <workItem from="1582678980607" duration="1572000" />
+      <workItem from="1582678980607" duration="4939000" />
     </task>
     <servers />
   </component>
@@ -58,6 +67,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1700" y="454" key="FileChooserDialogImpl" timestamp="1582687545458">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582687545458" />
     <state x="141" y="346" key="SettingsEditor" timestamp="1582633010982">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
